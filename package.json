@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "<img src=\"Assets/992-Index-Final.png\"      alt=\"IndexPage\"      style=\"padding-bottom: 20px\"/> <img      align=\"right\"      src=\"Assets/992-index.png\"     alt=\"IndexPage\"     style=\"width:50%;padding-left: 60px;padding-bottom:5vw;\"     position=\"inline\"/> <br> <br> <br>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarondig/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarondig/portfolio/issues"
+  },
+  "homepage": "https://github.com/aarondig/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
